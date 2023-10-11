@@ -137,7 +137,7 @@ header ul li a:hover::before {
     height: 200px;
     object-fit: cover;
     border-radius: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 10px;;
 }
 
 footer {
